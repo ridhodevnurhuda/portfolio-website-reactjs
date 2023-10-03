@@ -7,7 +7,7 @@ Saya membangun portfolio ini dengan bantuan sumber yang bisa kamu akses disini [
 
 ## Visual
 
-![Logo]([https://github.com/ridhodevnurhuda/portfolio-website-reactjs/blob/gh-pages/Screenshot1.png](https://github.com/ridhodevnurhuda/portfolio-website-reactjs/blob/gh-pages/public/Screenshot1.png)https://github.com/ridhodevnurhuda/portfolio-website-reactjs/blob/gh-pages/public/Screenshot1.png)
+![Logo](public/Screenshot1.png)
 
 
 
